@@ -17,6 +17,9 @@ Planning FAC8
 * General: learn how to make good documentation
 * General: debugging morning challenges. 
 * General: technical talks are better towards the end of the course, e.g. on security, databases, node.
+* CSS: Should we bring in Bootstrap/Materialise/FlexBox earlier in the course and encourage students to learn them and use them in course projects?
+* React: Make the initial walkthrough less ambitious. Too much compressed into too little time.
+* React: Demystify things like babelrc, webpack etc.
 
 #### Stop
 * Making READMEs and not reading them.
@@ -26,3 +29,5 @@ Planning FAC8
 * Think about Facebook with Oauth - people should be aware of what is on offer
 * Build a game? Direct them to tutorials? Something simple, where they can use TDD?
 * More pre-course direction: direct them to [Git tutorial](https://www.udacity.com/course/how-to-use-git-and-github--ud775)?
+* Promises: learn them earlier?
+* ES6: Have a workshop in week 3/4/5 to introduce key functionality.
